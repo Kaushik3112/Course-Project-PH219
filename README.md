@@ -1,4 +1,4 @@
-# Course Project PH219
+# Course Project PH 219
 Documentation and code repository for the PH 219 course project
 
 ### Table Of Contents:
