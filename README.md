@@ -18,7 +18,7 @@ Documentation and code repository for the PH 219 course project
 *Results*
  - The final observations, plots, documents, reports, inferences and presentation have been saved there
 
-=====
+=
 
 [Link](https://www.overleaf.com/read/bsmnjtskbbjr) to the Overleaf document containing the project report
 
