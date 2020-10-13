@@ -1,7 +1,7 @@
 # Course-Project-PH219
 Documentation and code repository for the PH 219 course project
 
-**Table Of Contents:**
+### Table Of Contents:
 
 *Files*
  - To declutter the head directory and save all images and multimedia files that are used in other README sections
