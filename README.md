@@ -5,6 +5,7 @@ Documentation and code repository for the PH 219 course project
 
 *Files*
  - To declutter the head directory and save all images and multimedia files that are used in other README sections
+ - [This](/Files/PhysRevD.83.112001.pdf) is the reference paper
  
 *Marginalia*
  - Any sort of notes or minutes of the meeting can be found there
