@@ -23,6 +23,6 @@ Documentation and code repository for the PH 219 course project
 
 [Link](https://www.overleaf.com/read/bsmnjtskbbjr) to the Overleaf document containing the project report
 
-[Here](https://www.youtube.com/playlist?list=PLJZI0Nq8pgrScd_mR_ruxXD7N8dxFZtXv) is a useful YouTube Learning Playlist to get started with ROOT
+[Here](https://www.youtube.com/playlist?list=PLJZI0Nq8pgrScd_mR_ruxXD7N8dxFZtXv) [are](https://www.youtube.com/playlist?list=PLLybgCU6QCGWLdDO4ZDaB0kLrO3maeYAe) two useful YouTube Learning Playlists to get started with ROOT
 
-<!--Contributors: Abhishek Soni, Aravind Bharathi, Harshda Saxena, Moysha Gera, Priyam Dubey, Vinit Doke-->
+<!--Contributors: Abhishek Soni, Aravind Bharathi, Gundappa, Harshda Saxena, Heetak Shah, Kaushik Singirikonda, Moysha Gera, Vinit Doke-->
