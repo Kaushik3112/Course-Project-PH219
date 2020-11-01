@@ -5,7 +5,8 @@ Documentation and code repository for the PH 219 course project
 
 *Files*
  - To declutter the head directory and save all images and multimedia files that are used in other README sections
- - [This](/Files/PhysRevD.83.112001.pdf) is the reference paper
+ - [This](/Files/PhysRevD.83.112001.pdf) is the reference paper: Measurement of underlying event characteristics using charged particles
+in $p-p$ collisions at $\sqrt{s} = 900$ GeV and $7$ TeV with the ATLAS detector
  
 *Marginalia*
  - Any sort of notes or minutes of the meeting can be found there
