@@ -9,9 +9,6 @@ Documentation and code repository for the PH 219 course project
 in $p-p$ collisions at $\sqrt{s} = 900$ GeV and $7$ TeV with the ATLAS detector
  - [Link](https://drive.google.com/file/d/1kkmyTks_-kv2-sru9J47ngJhq7mZJnFo/view?usp=sharing) to the Google Drive containing the dataset
  
-*Marginalia*
- - Any sort of notes or minutes of the meeting can be found there
- 
 *ROOT*
  - You know what
  
