@@ -10,7 +10,7 @@ in $p-p$ collisions at $\sqrt{s} = 900$ GeV and $7$ TeV with the ATLAS detector
  - [Link](https://drive.google.com/file/d/1kkmyTks_-kv2-sru9J47ngJhq7mZJnFo/view?usp=sharing) to the Google Drive containing the dataset
  
 *ROOT*
- - The directory containing all the ROOT macros used to produce the results
+ - The directory containing all the ROOT macros used to produce the results. The subdirectories referring to the multiplicity classes: 0-20, 20-40 and 40-60 are of particular interest
  
 *References*
  - Links to the research paper and other useful resources referred to
