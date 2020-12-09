@@ -20,7 +20,7 @@ in $p-p$ collisions at $\sqrt{s} = 900$ GeV and $7$ TeV with the ATLAS detector
 
 - - - -
 
-[Link](https://www.overleaf.com/project/5fce1be2a7eb1454d1a49614) to the Overleaf document containing the project report
+[Link](https://www.overleaf.com/project/5fce1be2a7eb1454d1a49614) to the Overleaf document containing the project report or check [this](/Files/PH219_Data_Analysis_Project.pdf) out for the .pdf version
 
 Here are two useful YouTube Learning Playlists by [Dai Xination](https://www.youtube.com/playlist?list=PLJZI0Nq8pgrScd_mR_ruxXD7N8dxFZtXv) and [Physics Matters](https://www.youtube.com/playlist?list=PLLybgCU6QCGWLdDO4ZDaB0kLrO3maeYAe) to get started with ROOT
 
