@@ -1,4 +1,4 @@
-# Course Project PH 219
+# Course Project: Data Analysis and Interpretation
 Documentation and code repository for the PH 219 course project
 
 ### Table Of Contents:
